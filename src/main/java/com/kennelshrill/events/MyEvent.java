@@ -1,6 +1,6 @@
 package com.kennelshrill.events;
 
-public class Event {
+public class MyEvent {
 	public String getName() {
 		return "event-name";
 	}
